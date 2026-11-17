@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3529ca217e4790041be6a6dbcfade1c1
+guid: e496860049d2d794b98ee7941c37af67
 ModelImporter:
   serializedVersion: 24501
   internalIDToNameTable: []
@@ -8,62 +8,27 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: ACOUSTID
-    second: {fileID: 2800000, guid: 4c1ae4f7b8d93af4296922440cb54dad, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: CONDIMENTS
-    second: {fileID: 2800000, guid: 9c40bc70929c49448a9b5d548a96d93d, type: 3}
+    second: {fileID: 2800000, guid: c4d8cc86687421e4da0ff331fce91526, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: DANCEBATTLE
-    second: {fileID: 2800000, guid: bc5b0401ffee7a14fa2e8965f5ce5d2a, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: DOORS
-    second: {fileID: 2800000, guid: 4316a73d313fe9a41bcfe077eaa690f6, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: FUNKYPATTERN
-    second: {fileID: 2800000, guid: fcc19db9bd51258438a69eead2fb1cdf, type: 3}
+    second: {fileID: 2800000, guid: 7857cb94f2c56854c93afa83a69c4cf1, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: MM
-    second: {fileID: 2800000, guid: 116bc54ab88eaa34b97b27195c7dcba1, type: 3}
+    second: {fileID: 2800000, guid: 5d29173b8cdfbb74ca64627bfdb8a17b, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: MM+MM
-    second: {fileID: 2800000, guid: 12e53d9f4dface44994254ccdd616998, type: 3}
+    second: {fileID: 2800000, guid: 6cffe85dd316691439fb435587102313, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: SPACEINVAD
-    second: {fileID: 2800000, guid: 5fa0e923aa55daa4da01a2719753271e, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: TISSUE
-    second: {fileID: 2800000, guid: e2f7bc329fa9d58498e0863376e69bef, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Tabel
-    second: {fileID: 2800000, guid: 6e01592b49c30d2479d822f635b281c6, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: assets3
-    second: {fileID: 2800000, guid: fe226013c474eab46af2f720fa2c4191, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: vents
-    second: {fileID: 2800000, guid: 65afc9876ebd41349830293740f3f8ae, type: 3}
+    second: {fileID: 2800000, guid: 981a8f8a1c28a2143891a1794de4d276, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
